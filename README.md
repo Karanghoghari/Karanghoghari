@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Karan Ghoghari 👋
 
-<!--
-**Karanghoghari/Karanghoghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. Computer Engineering student** at Universität Duisburg-Essen, specializing in **Intelligent Networked Systems**.
+I'm interested in **cloud infrastructure and computer networks**, and I'm currently building hands-on projects on **AWS**.
 
-Here are some ideas to get you started:
+📍 Essen, Germany
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Open to **Werkstudent / working student** roles in Germany
+
+---
+
+### 🎓 Education
+
+- **M.Sc. Computer Engineering** (Intelligent Networked Systems), Universität Duisburg-Essen, *ongoing*
+- **B.E. Computer Engineering**, Sarvajanik College of Engineering & Technology, India
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-ghoghari-626a3626a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karanghoghari29@gmail.com)
