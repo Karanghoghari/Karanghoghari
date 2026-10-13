@@ -1,7 +1,7 @@
 # Hi, I'm Karan Ghoghari 👋
 
 **M.Sc. Computer Engineering student** at Universität Duisburg-Essen, specializing in **Intelligent Networked Systems**.
-I'm interested in **cloud infrastructure and computer networks**, and I'm currently building hands-on projects on **AWS**.
+I'm interested in **cloud infrastructure and computer networks**, and I'm currently learning **AWS**.
 
 📍 Essen, Germany
 
