@@ -14,6 +14,8 @@ I'm interested in **cloud infrastructure and computer networks**, and I'm curren
 - **M.Sc. Computer Engineering** (Intelligent Networked Systems), Universität Duisburg-Essen, *ongoing*
 - **B.E. Computer Engineering**, Sarvajanik College of Engineering & Technology, India
 
+---
+
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-ghoghari-626a3626a)
